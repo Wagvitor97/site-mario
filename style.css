@@ -5,7 +5,6 @@
     font-family: 'Mukta Vaani', sans-serif;
 }
 
-
 body {
     display: flex;
     height: 100vh;
@@ -65,6 +64,8 @@ button {
     color: white;
     margin-top: 20px;
     cursor: pointer;
+    font-size: 22px;
+
 }
 
 .fale-conosco {
